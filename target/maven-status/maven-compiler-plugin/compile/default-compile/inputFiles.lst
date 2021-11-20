@@ -1,0 +1,11 @@
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/entity/Autor.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/exception/ExceptionDTO.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/service/SAutor.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/exception/ExceptionFilter.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/controller/AutoresController.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/exception/ConflictException.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/project/ProjectApplication.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/service/interfaz/ISCRUD.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/exception/NotFoundException.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/repository/interfaz/IDAutor.java
+/home/jhonattan/Documents/ProyectoLineaIII/src/main/java/co/edu/udec/service/interfaz/ISAutor.java
